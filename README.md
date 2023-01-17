@@ -1,0 +1,1 @@
+# This is a lottery simulator that generates 100 batches
